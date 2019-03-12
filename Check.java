@@ -202,7 +202,7 @@ class MyTest {
     }
 }
 
-// I has some problems with running the code. 'import org can not be resolved'. 
+// I had some problems with running the code. 'import org can not be resolved'. 
 // I tried fixing this by importing some libraries and changing paths for them, without luck.
 // I would like to talk to you about this in class, since this has made it hard for me
 // to do the unit testing. 
